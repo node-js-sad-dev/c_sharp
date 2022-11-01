@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study", "study\study.csproj", "{BBB5B262-AF65-416A-B848-1D94B2202670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{90D13162-7173-45B3-952B-FBAB862C0872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{2622441F-8D5E-43A0-BBB2-29138121AE18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexNumbers", "ComplexNumbers\ComplexNumbers.csproj", "{71B6817B-667B-4B3F-AC22-324A33CC07BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{BF8BB8CB-315A-44E4-9A69-E566C6E28A80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{137A3BCC-E78D-4792-B58B-9CD8CAC112DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheWordGame", "GuessTheWordGame\GuessTheWordGame.csproj", "{C9C28DED-833D-49D1-BF87-D0D976EFFB3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB5B262-AF65-416A-B848-1D94B2202670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB5B262-AF65-416A-B848-1D94B2202670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB5B262-AF65-416A-B848-1D94B2202670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB5B262-AF65-416A-B848-1D94B2202670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D13162-7173-45B3-952B-FBAB862C0872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D13162-7173-45B3-952B-FBAB862C0872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D13162-7173-45B3-952B-FBAB862C0872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D13162-7173-45B3-952B-FBAB862C0872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2622441F-8D5E-43A0-BBB2-29138121AE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2622441F-8D5E-43A0-BBB2-29138121AE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2622441F-8D5E-43A0-BBB2-29138121AE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2622441F-8D5E-43A0-BBB2-29138121AE18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B6817B-667B-4B3F-AC22-324A33CC07BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B6817B-667B-4B3F-AC22-324A33CC07BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B6817B-667B-4B3F-AC22-324A33CC07BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B6817B-667B-4B3F-AC22-324A33CC07BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8BB8CB-315A-44E4-9A69-E566C6E28A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8BB8CB-315A-44E4-9A69-E566C6E28A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8BB8CB-315A-44E4-9A69-E566C6E28A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8BB8CB-315A-44E4-9A69-E566C6E28A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{137A3BCC-E78D-4792-B58B-9CD8CAC112DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137A3BCC-E78D-4792-B58B-9CD8CAC112DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137A3BCC-E78D-4792-B58B-9CD8CAC112DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137A3BCC-E78D-4792-B58B-9CD8CAC112DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C28DED-833D-49D1-BF87-D0D976EFFB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C28DED-833D-49D1-BF87-D0D976EFFB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C28DED-833D-49D1-BF87-D0D976EFFB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C28DED-833D-49D1-BF87-D0D976EFFB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
