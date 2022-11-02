@@ -1,3 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
 
-Console.WriteLine("Hello, World!");
+namespace GuessTheWordGame // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            GuessTheWordGame guessTheWordGame = new GuessTheWordGame();
+            
+            guessTheWordGame.StartGame();
+        }
+    }
+}
