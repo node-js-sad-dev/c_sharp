@@ -34,11 +34,15 @@ public class ChineseSticksGame
 
     private void LogGameHistory()
     {
+        Console.WriteLine();
+        
         foreach (var historyMove in _history)
         {
             string player = historyMove.Player == Player.Computer ? "Computer" : "User";
             Console.WriteLine($"{player.PadRight(20)}{historyMove.SticksAmount}");
         }
+
+        Console.WriteLine();
     }
 
     public void StartGame()
