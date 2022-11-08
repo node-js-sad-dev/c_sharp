@@ -17,7 +17,7 @@ public class GuessTheWordGame
     public void StartGame()
     {
         string[] fileWithWords =
-            File.ReadAllLines($"../../../Resources/WordsStock.txt");
+            File.ReadAllLines("../../../Resources/WordsStock.txt");
 
         Random random = new Random();
 
